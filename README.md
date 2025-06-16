@@ -61,3 +61,6 @@ In queries.js, replace this line:
 const uri = 'your-mongodb-connection-uri';
 ```
 ### 5. Run the Script
+```
+node queries.js
+
