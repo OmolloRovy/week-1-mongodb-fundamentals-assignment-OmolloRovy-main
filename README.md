@@ -56,3 +56,4 @@ cd mongodb-bookstore-queries
 npm install mongodb
 ```
 ### 4. Configure MongoDB URI
+In queries.js, replace this line:
