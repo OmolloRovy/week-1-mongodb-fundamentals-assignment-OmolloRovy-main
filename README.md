@@ -57,3 +57,6 @@ npm install mongodb
 ```
 ### 4. Configure MongoDB URI
 In queries.js, replace this line:
+```
+const uri = 'your-mongodb-connection-uri';
+```
