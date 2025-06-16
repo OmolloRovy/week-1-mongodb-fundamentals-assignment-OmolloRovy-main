@@ -45,3 +45,13 @@ Ensure your `books` collection contains documents in this format:
   "in_stock": true,
   "pages": 328
 }
+```
+### 2. Clone or Download the Repository
+```
+git clone https://github.com/your-username/mongodb-bookstore-queries.git
+cd mongodb-bookstore-queries
+```
+### 3 Install Dependencies
+```
+npm install mongodb
+```
